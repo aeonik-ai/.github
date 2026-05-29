@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/aeonik-avatar.png" width="96" alt="Aeonik abstract gradient avatar" />
+</p>
+
+<p align="center">
   <a href="https://aeonik.ai"><strong>Aeonik</strong></a>
 </p>
 
