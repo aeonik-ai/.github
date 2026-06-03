@@ -22,11 +22,11 @@
 
 ---
 
-## Groundplane
+## Groundscore
 
 **Live operational intelligence for event teams.**
 
-For festivals, productions, venues, and temporary cities, Groundplane turns scattered operational context into a source-linked record of:
+For festivals, productions, venues, and temporary cities, Groundscore turns scattered operational context into a source-linked record of:
 
 - what happened
 - what is still open
